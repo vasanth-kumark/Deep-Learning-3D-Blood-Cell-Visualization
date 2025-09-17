@@ -46,6 +46,11 @@ Maximized View of Generated 3D Structure of Predicted White Blood Cell
 
 <img width="1690" height="1025" alt="Screenshot 2025-05-25 190349" src="https://github.com/user-attachments/assets/2f29ec9e-790b-4450-b677-e88d8ad14166" />
 
+## 🤝 Connect
+👤 **Vasanth Kumar**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/vasanth-kumark)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vasanthkumarwork.lovable.app/)
+
 ## Thank You !!
 
 
